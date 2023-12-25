@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login-register-firebase</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+
+
+</resources>
